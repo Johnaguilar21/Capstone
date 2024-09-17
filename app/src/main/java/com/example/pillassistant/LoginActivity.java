@@ -20,7 +20,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        // Inicializar los elementos de la UI
+        // Inicializar los elementos de la UI prueba
         email = findViewById(R.id.editTextEmail);
         password = findViewById(R.id.editTextPassword);
         loginButton = findViewById(R.id.btnLogin);
