@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="90dp"/> <!-- Ajusta este valor al 50% del tamaño -->
+    <solid android:color="@android:color/white"/> <!-- Puedes cambiar el color del fondo aquí -->
+</shape>
